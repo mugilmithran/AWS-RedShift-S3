@@ -1,0 +1,6 @@
+https://docs.aws.amazon.com/redshift/latest/gsg/new-user-serverless.html
+
+AWS - Cloud service.
+RedShift - Warehouse, centralized database.
+S3 - Data Lake, which means it stores all types of data, in raw format.
+Amazon Glue - ETL tool.
